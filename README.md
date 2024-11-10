@@ -16,5 +16,5 @@ This Python project detects and classifies sound levels (Low, Medium, High) in r
 
 ### Step 1: Clone the Repository
 ```bash
-git clone <repository-url>
-cd <repository-name>
+git clone https://github.com/Lovekush-1509/ML-projects.git
+cd ML-projects
