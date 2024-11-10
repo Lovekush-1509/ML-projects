@@ -12,9 +12,20 @@ This Python project detects and classifies sound levels (Low, Medium, High) in r
 - `numpy`, `scipy`, and `sounddevice` Python libraries
 - `PortAudio` library (required by `sounddevice`)
 
-## Setup and Installation
 
 ### Step 1: Clone the Repository
 ```bash
 git clone https://github.com/Lovekush-1509/ML-projects.git
 cd ML-projects
+```
+
+
+## Install Python Dependencies
+```
+pip install numpy sounddevice scipy
+```
+
+## Running the Project
+```
+python sound_detection.py
+ ```
